@@ -2,7 +2,7 @@ class Scripted(object):
   
   
  ABOUT_TEXT = """
-╭────[🔅Rᴇɴᴀᴍᴇʀ Bᴏᴛ🔅]───⍟
+╭────[🔅File Share Bot🔅]───⍟
 │
 ├<b>🤖 Bot Name : <a href='https://t.me/TNFileShareXBot'>Movie Bot</a></b>
 │

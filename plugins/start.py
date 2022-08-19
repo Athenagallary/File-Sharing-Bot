@@ -88,10 +88,10 @@ async def start_command(client: Client, message: Message):
         return
     else:     
         buttons = [[
-            InlineKeyboardButton('⚜ ᴊᴏɪɴ ᴍʏ ᴍᴏᴠɪᴇ ɢʀᴏᴜᴘ ⚜', url=f'http://t.me/TamilMoviesChat')
+            InlineKeyboardButton('⚜ ᴊᴏɪɴ ᴍʏ ᴍᴏᴠɪᴇ ɢʀᴏᴜᴘ ⚜', url=f'http://t.me/TNMovieChat')
             ],[
-            InlineKeyboardButton('🌟 ᴍᴀɪɴ ᴄʜᴀɴɴᴇʟ 🌟', url='https://t.me/TamilMovies4K'),
-            InlineKeyboardButton('♻️ ʙᴀᴄᴋᴜᴘ ᴄʜᴀɴɴᴇʟ ♻️', url='https://t.me/TamilMovieChat')
+            InlineKeyboardButton('🌟 ᴍᴀɪɴ ᴄʜᴀɴɴᴇʟ 🌟', url='https://t.me/TNMoviesChat'),
+            InlineKeyboardButton('♻️ ʙᴀᴄᴋᴜᴘ ᴄʜᴀɴɴᴇʟ ♻️', url='https://t.me/TNMoviesChat')
             ],[
             InlineKeyboardButton('😊 About Me', callback_data='about'),
             InlineKeyboardButton('🔒 Close', callback_data='close')
